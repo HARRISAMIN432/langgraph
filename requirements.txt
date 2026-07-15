@@ -1,6 +1,9 @@
 # langchain
 langchain
 langchain_google_genai
+langchain-core
+langchain-community
+langchain-text-splitters
 
 # langgraph
 langgraph
